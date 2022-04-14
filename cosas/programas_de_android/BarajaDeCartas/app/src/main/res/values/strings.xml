@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BarajaDeCartas</string>
+    <string name="bienvenido">BARAJA DE CARTAS</string>
+    <string name="comenzar">COMENZAR</string>
+    <string name="sacar">Sacar una carta</string>
+    <string name="mazoNuevo">Sacar carta</string>
+    <string name="mazoVacio">Mazo vacio</string>
+    <string name="volverMezclar">Volver a mezclar</string>
+    <string name="volver">Volver</string>
+
+
+
+
+</resources>
